@@ -15,6 +15,16 @@ IntelliQ isn't just a tool; it's a high-fidelity experience featuring:
 - **Dynamic Animations**: Smooth "fade-in-up" transitions for content reveal and interactive feedback.
 - **Responsive Layout**: Optimized for both high-end desktop monitors and mobile devices.
 
+## 🖼️ Visual Overview
+
+| Home Dashboard | Competitor Analysis |
+| :---: | :---: |
+| ![Home Dashboard](home.png) | ![Competitor Analysis](competetior.png) |
+
+| Market Sentiments | Launch Metrics |
+| :---: | :---: |
+| ![Market Sentiments](market_sentiments.png) | ![Launch Metrics](launch_metrics.png) |
+
 ## 🤖 The Coordinated Intelligence Team
 At the heart of IntelliQ is a three-agent team that coordinates in real-time to deliver multi-perspective insights:
 
@@ -39,8 +49,8 @@ At the heart of IntelliQ is a three-agent team that coordinates in real-time to 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd advanced_ai_agents/multi_agent_apps/product_launch_intelligence_agent
+git clone https://github.com/mars01hash/IntelliQ.git
+cd IntelliQ
 ```
 
 ### 2. Install dependencies
